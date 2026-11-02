@@ -1,0 +1,27 @@
+# CMake build outputs
+/build/
+/cmake-build-*/
+CMakeUserPresets.json
+
+# Visual Studio outputs
+.vs/
+Debug/
+Release/
+x64/
+*.sln
+*.suo
+*.user
+*.vcxproj.user
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+
+# Generated training data and model artifacts
+/data.db
+/data.db-*
+/models/
