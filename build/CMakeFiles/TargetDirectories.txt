@@ -1,0 +1,3 @@
+C:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation/build/CMakeFiles/translate.dir
+C:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation/build/CMakeFiles/ZERO_CHECK.dir

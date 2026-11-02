@@ -1,0 +1,1608 @@
+MSBuild version 18.11.0-1.26475.11+3cde5c8ec for .NET Framework
+
+  main.cpp
+C:\Library\libtorch\include\c10\util\C++17.h(34,44): error C2039: 'result_of_t': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\c10\util\SmallVector.h(1037,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(34,44): error C2061: syntax error: identifier 'result_of_t' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,19): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\c10\util\SmallVector.h(1037,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,54): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,56): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(245,10): error C2062: type '<error>' unexpected [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,63): error C2039: 'type': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(248,37): error C2143: syntax error: missing ';' before '{' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(248,37): error C2447: '{': missing function header (old-style formal list?) [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,19): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\c10\util\SmallVector.h(1037,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,54): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,56): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(253,10): error C2062: type '<error>' unexpected [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,63): error C2039: 'type': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(256,37): error C2143: syntax error: missing ';' before '{' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(256,37): error C2447: '{': missing function header (old-style formal list?) [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(272,49): error C2955: 'c10::guts::detail::DummyClassForToString': use of class template requires template argument list [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\c10\util\C++17.h(264,7):
+      see declaration of 'c10::guts::detail::DummyClassForToString'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(272,20): error C2027: use of undefined type 'c10::guts::detail::DummyClassForToString' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\c10\util\C++17.h(264,7):
+      see declaration of 'c10::guts::detail::DummyClassForToString'
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,80): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\interned_strings.h(396,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,101): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,103): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,110): error C2039: 'value': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,110): error C2146: syntax error: missing '>' before identifier 'value' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,89): error C3878: syntax error: unexpected token '<' following 'typename-specifier' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,89):
+      missing one of: '(' '{' ?
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,79): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\interned_strings.h(396,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,100): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,102): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,117): error C2039: 'value': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,117): error C2146: syntax error: missing '>' before identifier 'value' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,88): error C3878: syntax error: unexpected token '<' following 'typename-specifier' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,88):
+      missing one of: '(' '{' ?
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,3): error C2938: 'at::Tensor::hook_return_void_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,3):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,3):
+          see reference to alias template instantiation 'at::Tensor::hook_return_void_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,3): error C2938: 'at::Tensor::hook_return_var_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,3):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,3):
+          see reference to alias template instantiation 'at::Tensor::hook_return_var_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,24): error C2535: '<error type> at::Tensor::register_hook(T &&) const': member function already defined or declared [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,25):
+      see declaration of 'at::Tensor::register_hook'
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,27): error C2039: 'result_of_t': is not a member of 'c10::guts' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\c10\util\TypeList.h(6,27):
+      see declaration of 'c10::guts'
+      C:\Library\libtorch\include\c10\util\TypeList.h(331,27):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\c10\util\TypeList.h(329,33):
+          while compiling class template partial specialization 'c10::guts::typelist::detail::map_types_to_values<c10::guts::typelist::typelist<Items...>>'
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,44): error C2275: 'c10::guts::typelist::detail::type_<Types>': expected an expression instead of a type [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,15): error C3544: '_Types': parameter pack expects a type template argument [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,61): error C2988: unrecognizable template declaration/definition [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,61): error C2059: syntax error: '>' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,81): error C2334: unexpected token(s) preceding '{'; skipping apparent function body [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(67,52): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+      C:\Library\libtorch\include\c10\util\LeftRight.h(67,52):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\c10\util\LeftRight.h(32,7):
+          while compiling class template 'c10::LeftRight'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(67,74): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(67,76): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(80,48): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(80,64): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(80,66): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(92,54): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(92,70): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(92,72): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(152,106): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(152,122): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(152,124): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+  
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672: 'c10::LeftRight<ska::flat_hash_map<c10::TensorTypeId,c10::KernelFunction,std::hash<c10::TensorTypeId>,std::equal_to<K>,std::allocator<std::pair<K,V>>>>::read': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:         with [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:         [ [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:             K=c10::TensorTypeId, [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:             V=c10::KernelFunction [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:         ] [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\c10\util\LeftRight.h(67,10):
+      could be 'int c10::LeftRight<ska::flat_hash_map<c10::TensorTypeId,c10::KernelFunction,std::hash<c10::TensorTypeId>,std::equal_to<K>,std::allocator<std::pair<K,V>>>>::read(F &&) const'
+          with
+          [
+              K=c10::TensorTypeId,
+              V=c10::KernelFunction
+          ]
+          C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36):
+          Failed to specialize function template 'int c10::LeftRight<ska::flat_hash_map<c10::TensorTypeId,c10::KernelFunction,std::hash<c10::TensorTypeId>,std::equal_to<K>,std::allocator<std::pair<K,V>>>>::read(F &&) const'
+          with
+          [
+              K=c10::TensorTypeId,
+              V=c10::KernelFunction
+          ]
+              C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36):
+              With the following template arguments:
+                  C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36):
+                  'F=c10::Dispatcher::callBoxed::<lambda_1>::()::<lambda_1>'
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,52):
+              'result_of': is not a member of 'std'
+              C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+              see declaration of 'std'
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,52):
+              missing return type after '->' ('int' assumed)
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,74):
+              '<missingId>': is not a class or namespace name
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,76):
+              'type': unknown override specifier
+  
+C:\Library\libtorch\include\ATen\core\TensorMethods.h(6338,55): error C2938: 'at::Tensor::hook_return_void_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorMethods.h(6338,55):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorMethods.h(6338,55):
+          see reference to alias template instantiation 'at::Tensor::hook_return_void_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,55): error C2938: 'at::Tensor::hook_return_var_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,55):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,55):
+          see reference to alias template instantiation 'at::Tensor::hook_return_var_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,14): error C2995: '<error type> at::Tensor::register_hook(T &&) const': function template has already been defined [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/main.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,25):
+      see declaration of 'at::Tensor::register_hook'
+  
+  model.cpp
+C:\Library\libtorch\include\c10\util\C++17.h(34,44): error C2039: 'result_of_t': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\c10\util\SmallVector.h(1037,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(34,44): error C2061: syntax error: identifier 'result_of_t' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,19): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\c10\util\SmallVector.h(1037,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,54): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,56): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(245,10): error C2062: type '<error>' unexpected [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,63): error C2039: 'type': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(248,37): error C2143: syntax error: missing ';' before '{' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(248,37): error C2447: '{': missing function header (old-style formal list?) [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,19): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\c10\util\SmallVector.h(1037,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,54): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,56): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(253,10): error C2062: type '<error>' unexpected [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,63): error C2039: 'type': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(256,37): error C2143: syntax error: missing ';' before '{' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(256,37): error C2447: '{': missing function header (old-style formal list?) [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(272,49): error C2955: 'c10::guts::detail::DummyClassForToString': use of class template requires template argument list [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\c10\util\C++17.h(264,7):
+      see declaration of 'c10::guts::detail::DummyClassForToString'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(272,20): error C2027: use of undefined type 'c10::guts::detail::DummyClassForToString' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\c10\util\C++17.h(264,7):
+      see declaration of 'c10::guts::detail::DummyClassForToString'
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,80): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\interned_strings.h(396,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,101): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,103): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,110): error C2039: 'value': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,110): error C2146: syntax error: missing '>' before identifier 'value' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,89): error C3878: syntax error: unexpected token '<' following 'typename-specifier' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,89):
+      missing one of: '(' '{' ?
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,79): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\interned_strings.h(396,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,100): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,102): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,117): error C2039: 'value': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,117): error C2146: syntax error: missing '>' before identifier 'value' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,88): error C3878: syntax error: unexpected token '<' following 'typename-specifier' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,88):
+      missing one of: '(' '{' ?
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,3): error C2938: 'at::Tensor::hook_return_void_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,3):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,3):
+          see reference to alias template instantiation 'at::Tensor::hook_return_void_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,3): error C2938: 'at::Tensor::hook_return_var_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,3):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,3):
+          see reference to alias template instantiation 'at::Tensor::hook_return_var_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,24): error C2535: '<error type> at::Tensor::register_hook(T &&) const': member function already defined or declared [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,25):
+      see declaration of 'at::Tensor::register_hook'
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,27): error C2039: 'result_of_t': is not a member of 'c10::guts' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\c10\util\TypeList.h(6,27):
+      see declaration of 'c10::guts'
+      C:\Library\libtorch\include\c10\util\TypeList.h(331,27):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\c10\util\TypeList.h(329,33):
+          while compiling class template partial specialization 'c10::guts::typelist::detail::map_types_to_values<c10::guts::typelist::typelist<Items...>>'
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,44): error C2275: 'c10::guts::typelist::detail::type_<Types>': expected an expression instead of a type [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,15): error C3544: '_Types': parameter pack expects a type template argument [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,61): error C2988: unrecognizable template declaration/definition [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,61): error C2059: syntax error: '>' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,81): error C2334: unexpected token(s) preceding '{'; skipping apparent function body [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(67,52): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+      C:\Library\libtorch\include\c10\util\LeftRight.h(67,52):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\c10\util\LeftRight.h(32,7):
+          while compiling class template 'c10::LeftRight'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(67,74): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(67,76): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(80,48): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(80,64): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(80,66): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(92,54): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(92,70): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(92,72): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(152,106): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(152,122): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(152,124): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+  
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672: 'c10::LeftRight<ska::flat_hash_map<c10::TensorTypeId,c10::KernelFunction,std::hash<c10::TensorTypeId>,std::equal_to<K>,std::allocator<std::pair<K,V>>>>::read': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:         with [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:         [ [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:             K=c10::TensorTypeId, [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:             V=c10::KernelFunction [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:         ] [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\c10\util\LeftRight.h(67,10):
+      could be 'int c10::LeftRight<ska::flat_hash_map<c10::TensorTypeId,c10::KernelFunction,std::hash<c10::TensorTypeId>,std::equal_to<K>,std::allocator<std::pair<K,V>>>>::read(F &&) const'
+          with
+          [
+              K=c10::TensorTypeId,
+              V=c10::KernelFunction
+          ]
+          C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36):
+          Failed to specialize function template 'int c10::LeftRight<ska::flat_hash_map<c10::TensorTypeId,c10::KernelFunction,std::hash<c10::TensorTypeId>,std::equal_to<K>,std::allocator<std::pair<K,V>>>>::read(F &&) const'
+          with
+          [
+              K=c10::TensorTypeId,
+              V=c10::KernelFunction
+          ]
+              C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36):
+              With the following template arguments:
+                  C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36):
+                  'F=c10::Dispatcher::callBoxed::<lambda_1>::()::<lambda_1>'
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,52):
+              'result_of': is not a member of 'std'
+              C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+              see declaration of 'std'
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,52):
+              missing return type after '->' ('int' assumed)
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,74):
+              '<missingId>': is not a class or namespace name
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,76):
+              'type': unknown override specifier
+  
+C:\Library\libtorch\include\ATen\core\TensorMethods.h(6338,55): error C2938: 'at::Tensor::hook_return_void_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorMethods.h(6338,55):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorMethods.h(6338,55):
+          see reference to alias template instantiation 'at::Tensor::hook_return_void_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,55): error C2938: 'at::Tensor::hook_return_var_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,55):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,55):
+          see reference to alias template instantiation 'at::Tensor::hook_return_var_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,14): error C2995: '<error type> at::Tensor::register_hook(T &&) const': function template has already been defined [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/model.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,25):
+      see declaration of 'at::Tensor::register_hook'
+  
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38): error C2672: 'std::get': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1151,34):
+      could be 'const _Ty &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1139,28):
+      or       '_Ty &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1127,33):
+      or       'const _Ty &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1115,27):
+      or       '_Ty &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_iter_core.hpp(435,31):
+      or       'auto std::ranges::get(const std::ranges::subrange<_It,_Se,_Ki> &)'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'auto std::ranges::get(const std::ranges::subrange<_It,_Se,_Ki> &)': could not deduce template argument for 'const std::ranges::subrange<_It,_Se,_Ki> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_iter_core.hpp(439,31):
+      or       'auto std::ranges::get(std::ranges::subrange<_It,_Se,_Ki> &&)'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'auto std::ranges::get(std::ranges::subrange<_It,_Se,_Ki> &&)': could not deduce template argument for 'std::ranges::subrange<_It,_Se,_Ki> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(821,35):
+      or       'const _Ty2 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(815,35):
+      or       'const _Ty1 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(805,70):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(799,29):
+      or       '_Ty2 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(793,29):
+      or       '_Ty1 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(783,64):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(777,34):
+      or       'const _Ty2 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(771,34):
+      or       'const _Ty1 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(761,69):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(755,28):
+      or       '_Ty2 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(749,28):
+      or       '_Ty1 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(739,63):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(209,34):
+      or       'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(206,28):
+      or       '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(203,33):
+      or       'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(200,27):
+      or       '_Ty &std::get(std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          '_Ty &std::get(std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(197,72):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(194,66):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(191,71):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(188,65):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept': could not deduce template argument for 'std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+  
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(28,39): error C3536: 'candidate_hidden': cannot be used before it is initialized [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33): error C2672: 'std::get': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1151,34):
+      could be 'const _Ty &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1139,28):
+      or       '_Ty &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1127,33):
+      or       'const _Ty &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1115,27):
+      or       '_Ty &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_iter_core.hpp(435,31):
+      or       'auto std::ranges::get(const std::ranges::subrange<_It,_Se,_Ki> &)'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'auto std::ranges::get(const std::ranges::subrange<_It,_Se,_Ki> &)': could not deduce template argument for 'const std::ranges::subrange<_It,_Se,_Ki> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_iter_core.hpp(439,31):
+      or       'auto std::ranges::get(std::ranges::subrange<_It,_Se,_Ki> &&)'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'auto std::ranges::get(std::ranges::subrange<_It,_Se,_Ki> &&)': could not deduce template argument for 'std::ranges::subrange<_It,_Se,_Ki> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(821,35):
+      or       'const _Ty2 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(815,35):
+      or       'const _Ty1 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(805,70):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(799,29):
+      or       '_Ty2 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(793,29):
+      or       '_Ty1 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(783,64):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(777,34):
+      or       'const _Ty2 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(771,34):
+      or       'const _Ty1 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(761,69):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(755,28):
+      or       '_Ty2 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(749,28):
+      or       '_Ty1 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(739,63):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(209,34):
+      or       'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(206,28):
+      or       '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(203,33):
+      or       'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(200,27):
+      or       '_Ty &std::get(std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          '_Ty &std::get(std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(197,72):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(194,66):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(191,71):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(188,65):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept': could not deduce template argument for 'std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+  
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(30,9): error C3536: 'step_output': cannot be used before it is initialized [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29): error C2672: 'std::get': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1151,34):
+      could be 'const _Ty &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1139,28):
+      or       '_Ty &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1127,33):
+      or       'const _Ty &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1115,27):
+      or       '_Ty &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_iter_core.hpp(435,31):
+      or       'auto std::ranges::get(const std::ranges::subrange<_It,_Se,_Ki> &)'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'auto std::ranges::get(const std::ranges::subrange<_It,_Se,_Ki> &)': could not deduce template argument for 'const std::ranges::subrange<_It,_Se,_Ki> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_iter_core.hpp(439,31):
+      or       'auto std::ranges::get(std::ranges::subrange<_It,_Se,_Ki> &&)'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'auto std::ranges::get(std::ranges::subrange<_It,_Se,_Ki> &&)': could not deduce template argument for 'std::ranges::subrange<_It,_Se,_Ki> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(821,35):
+      or       'const _Ty2 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(815,35):
+      or       'const _Ty1 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(805,70):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(799,29):
+      or       '_Ty2 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(793,29):
+      or       '_Ty1 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(783,64):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(777,34):
+      or       'const _Ty2 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(771,34):
+      or       'const _Ty1 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(761,69):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(755,28):
+      or       '_Ty2 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(749,28):
+      or       '_Ty1 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(739,63):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(209,34):
+      or       'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(206,28):
+      or       '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(203,33):
+      or       'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(200,27):
+      or       '_Ty &std::get(std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          '_Ty &std::get(std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(197,72):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(194,66):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(191,71):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(188,65):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept': could not deduce template argument for 'std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+  
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28): error C2672: 'std::get': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1151,34):
+      could be 'const _Ty &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1139,28):
+      or       '_Ty &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1127,33):
+      or       'const _Ty &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1115,27):
+      or       '_Ty &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_iter_core.hpp(435,31):
+      or       'auto std::ranges::get(const std::ranges::subrange<_It,_Se,_Ki> &)'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'auto std::ranges::get(const std::ranges::subrange<_It,_Se,_Ki> &)': could not deduce template argument for 'const std::ranges::subrange<_It,_Se,_Ki> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_iter_core.hpp(439,31):
+      or       'auto std::ranges::get(std::ranges::subrange<_It,_Se,_Ki> &&)'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'auto std::ranges::get(std::ranges::subrange<_It,_Se,_Ki> &&)': could not deduce template argument for 'std::ranges::subrange<_It,_Se,_Ki> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(821,35):
+      or       'const _Ty2 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(815,35):
+      or       'const _Ty1 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(805,70):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(799,29):
+      or       '_Ty2 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(793,29):
+      or       '_Ty1 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(783,64):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(777,34):
+      or       'const _Ty2 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(771,34):
+      or       'const _Ty1 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(761,69):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(755,28):
+      or       '_Ty2 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(749,28):
+      or       '_Ty1 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(739,63):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(209,34):
+      or       'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(206,28):
+      or       '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(203,33):
+      or       'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(200,27):
+      or       '_Ty &std::get(std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          '_Ty &std::get(std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(197,72):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(194,66):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(191,71):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(188,65):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept': could not deduce template argument for 'std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+  
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(75,47): error C3536: 'output_step': cannot be used before it is initialized [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(76,21): error C3536: 'new_hidden': cannot be used before it is initialized [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  trainer.cpp
+C:\Library\libtorch\include\c10\util\C++17.h(34,44): error C2039: 'result_of_t': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\c10\util\SmallVector.h(1037,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(34,44): error C2061: syntax error: identifier 'result_of_t' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,19): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\c10\util\SmallVector.h(1037,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,54): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,56): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(245,10): error C2062: type '<error>' unexpected [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(247,63): error C2039: 'type': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(248,37): error C2143: syntax error: missing ';' before '{' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(248,37): error C2447: '{': missing function header (old-style formal list?) [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,19): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\c10\util\SmallVector.h(1037,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,54): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,56): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(253,10): error C2062: type '<error>' unexpected [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(255,63): error C2039: 'type': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(256,37): error C2143: syntax error: missing ';' before '{' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(256,37): error C2447: '{': missing function header (old-style formal list?) [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\C++17.h(272,49): error C2955: 'c10::guts::detail::DummyClassForToString': use of class template requires template argument list [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\c10\util\C++17.h(264,7):
+      see declaration of 'c10::guts::detail::DummyClassForToString'
+  
+C:\Library\libtorch\include\c10\util\C++17.h(272,20): error C2027: use of undefined type 'c10::guts::detail::DummyClassForToString' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\c10\util\C++17.h(264,7):
+      see declaration of 'c10::guts::detail::DummyClassForToString'
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,80): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\interned_strings.h(396,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,101): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,103): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,110): error C2039: 'value': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,110): error C2146: syntax error: missing '>' before identifier 'value' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,89): error C3878: syntax error: unexpected token '<' following 'typename-specifier' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1065,89):
+      missing one of: '(' '{' ?
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,79): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\interned_strings.h(396,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,100): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,102): error C2146: syntax error: missing '>' before identifier 'type' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,117): error C2039: 'value': is not a member of '`global namespace'' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,117): error C2146: syntax error: missing '>' before identifier 'value' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,88): error C3878: syntax error: unexpected token '<' following 'typename-specifier' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1067,88):
+      missing one of: '(' '{' ?
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,3): error C2938: 'at::Tensor::hook_return_void_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,3):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,3):
+          see reference to alias template instantiation 'at::Tensor::hook_return_void_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,3): error C2938: 'at::Tensor::hook_return_var_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,3):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,3):
+          see reference to alias template instantiation 'at::Tensor::hook_return_var_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorBody.h(1075,24): error C2535: '<error type> at::Tensor::register_hook(T &&) const': member function already defined or declared [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,25):
+      see declaration of 'at::Tensor::register_hook'
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,27): error C2039: 'result_of_t': is not a member of 'c10::guts' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\c10\util\TypeList.h(6,27):
+      see declaration of 'c10::guts'
+      C:\Library\libtorch\include\c10\util\TypeList.h(331,27):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\c10\util\TypeList.h(329,33):
+          while compiling class template partial specialization 'c10::guts::typelist::detail::map_types_to_values<c10::guts::typelist::typelist<Items...>>'
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,44): error C2275: 'c10::guts::typelist::detail::type_<Types>': expected an expression instead of a type [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,15): error C3544: '_Types': parameter pack expects a type template argument [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,61): error C2988: unrecognizable template declaration/definition [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,61): error C2059: syntax error: '>' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\TypeList.h(331,81): error C2334: unexpected token(s) preceding '{'; skipping apparent function body [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(67,52): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+      C:\Library\libtorch\include\c10\util\LeftRight.h(67,52):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\c10\util\LeftRight.h(32,7):
+          while compiling class template 'c10::LeftRight'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(67,74): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(67,76): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(80,48): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(80,64): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(80,66): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(92,54): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(92,70): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(92,72): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(152,106): error C2039: 'result_of': is not a member of 'std' [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+      see declaration of 'std'
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(152,122): error C2653: 'result_of': is not a class or namespace name [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\c10\util\LeftRight.h(152,124): error C3646: 'type': unknown override specifier [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+  
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672: 'c10::LeftRight<ska::flat_hash_map<c10::TensorTypeId,c10::KernelFunction,std::hash<c10::TensorTypeId>,std::equal_to<K>,std::allocator<std::pair<K,V>>>>::read': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:         with [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:         [ [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:             K=c10::TensorTypeId, [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:             V=c10::KernelFunction [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36): error C2672:         ] [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\c10\util\LeftRight.h(67,10):
+      could be 'int c10::LeftRight<ska::flat_hash_map<c10::TensorTypeId,c10::KernelFunction,std::hash<c10::TensorTypeId>,std::equal_to<K>,std::allocator<std::pair<K,V>>>>::read(F &&) const'
+          with
+          [
+              K=c10::TensorTypeId,
+              V=c10::KernelFunction
+          ]
+          C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36):
+          Failed to specialize function template 'int c10::LeftRight<ska::flat_hash_map<c10::TensorTypeId,c10::KernelFunction,std::hash<c10::TensorTypeId>,std::equal_to<K>,std::allocator<std::pair<K,V>>>>::read(F &&) const'
+          with
+          [
+              K=c10::TensorTypeId,
+              V=c10::KernelFunction
+          ]
+              C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36):
+              With the following template arguments:
+                  C:\Library\libtorch\include\ATen\core\dispatch\Dispatcher.h(218,36):
+                  'F=c10::Dispatcher::callBoxed::<lambda_1>::()::<lambda_1>'
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,52):
+              'result_of': is not a member of 'std'
+              C:\Library\libtorch\include\ATen\core\operator_name.h(33,11):
+              see declaration of 'std'
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,52):
+              missing return type after '->' ('int' assumed)
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,74):
+              '<missingId>': is not a class or namespace name
+              C:\Library\libtorch\include\c10\util\LeftRight.h(67,76):
+              'type': unknown override specifier
+  
+C:\Library\libtorch\include\ATen\core\TensorMethods.h(6338,55): error C2938: 'at::Tensor::hook_return_void_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorMethods.h(6338,55):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorMethods.h(6338,55):
+          see reference to alias template instantiation 'at::Tensor::hook_return_void_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,55): error C2938: 'at::Tensor::hook_return_var_t' : Failed to specialize alias template [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,55):
+      the template instantiation context (the oldest one first) is
+          C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,55):
+          see reference to alias template instantiation 'at::Tensor::hook_return_var_t<T>' being compiled
+  
+C:\Library\libtorch\include\ATen\core\TensorMethods.h(6349,14): error C2995: '<error type> at::Tensor::register_hook(T &&) const': function template has already been defined [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  (compiling source file '../src/trainer.cpp')
+      C:\Library\libtorch\include\ATen\core\TensorBody.h(1072,25):
+      see declaration of 'at::Tensor::register_hook'
+  
+  Generating Code...
+CMake is re-running because C:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation/build/CMakeFiles/generate.stamp is out-of-date.
+  the file 'C:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation/CMakeLists.txt'
+  is newer than 'C:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation/build/CMakeFiles/generate.stamp.depend'
+  result='-1'
+-- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+-- Configuring done (0.4s)
+-- Generating done (0.2s)
+-- Build files have been written to: C:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation/build
+MSBuild version 18.11.0-1.26475.11+3cde5c8ec for .NET Framework
+
+  main.cpp
+  dataset.cpp
+  vocab.cpp
+  model.cpp
+  trainer.cpp
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38): error C2672: 'std::get': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1151,34):
+      could be 'const _Ty &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1139,28):
+      or       '_Ty &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1127,33):
+      or       'const _Ty &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1115,27):
+      or       '_Ty &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(821,35):
+      or       'const _Ty2 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(815,35):
+      or       'const _Ty1 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(805,70):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(799,29):
+      or       '_Ty2 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(793,29):
+      or       '_Ty1 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(783,64):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(777,34):
+      or       'const _Ty2 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(771,34):
+      or       'const _Ty1 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(761,69):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(755,28):
+      or       '_Ty2 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(749,28):
+      or       '_Ty1 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,42):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(739,63):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(209,34):
+      or       'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(206,28):
+      or       '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(203,33):
+      or       'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(200,27):
+      or       '_Ty &std::get(std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          '_Ty &std::get(std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(197,72):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(194,66):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(191,71):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(188,65):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(26,38):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept': could not deduce template argument for 'std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+  
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(28,39): error C3536: 'candidate_hidden': cannot be used before it is initialized [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33): error C2672: 'std::get': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1151,34):
+      could be 'const _Ty &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1139,28):
+      or       '_Ty &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1127,33):
+      or       'const _Ty &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1115,27):
+      or       '_Ty &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(821,35):
+      or       'const _Ty2 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(815,35):
+      or       'const _Ty1 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(805,70):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(799,29):
+      or       '_Ty2 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(793,29):
+      or       '_Ty1 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(783,64):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(777,34):
+      or       'const _Ty2 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(771,34):
+      or       'const _Ty1 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(761,69):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(755,28):
+      or       '_Ty2 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(749,28):
+      or       '_Ty1 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,37):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(739,63):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(209,34):
+      or       'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(206,28):
+      or       '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(203,33):
+      or       'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(200,27):
+      or       '_Ty &std::get(std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          '_Ty &std::get(std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(197,72):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(194,66):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(191,71):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(188,65):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(29,33):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept': could not deduce template argument for 'std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+  
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(30,9): error C3536: 'step_output': cannot be used before it is initialized [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29): error C2672: 'std::get': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1151,34):
+      could be 'const _Ty &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1139,28):
+      or       '_Ty &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1127,33):
+      or       'const _Ty &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1115,27):
+      or       '_Ty &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(821,35):
+      or       'const _Ty2 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(815,35):
+      or       'const _Ty1 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(805,70):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(799,29):
+      or       '_Ty2 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(793,29):
+      or       '_Ty1 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(783,64):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(777,34):
+      or       'const _Ty2 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(771,34):
+      or       'const _Ty1 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(761,69):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(755,28):
+      or       '_Ty2 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(749,28):
+      or       '_Ty1 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,33):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(739,63):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(209,34):
+      or       'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(206,28):
+      or       '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(203,33):
+      or       'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(200,27):
+      or       '_Ty &std::get(std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          '_Ty &std::get(std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(197,72):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(194,66):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(191,71):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(188,65):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(73,29):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept': could not deduce template argument for 'std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+  
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28): error C2672: 'std::get': no matching overloaded function found [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1151,34):
+      could be 'const _Ty &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1139,28):
+      or       '_Ty &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1127,33):
+      or       'const _Ty &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple(1115,27):
+      or       '_Ty &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(821,35):
+      or       'const _Ty2 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(815,35):
+      or       'const _Ty1 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(805,70):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(799,29):
+      or       '_Ty2 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(793,29):
+      or       '_Ty1 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(783,64):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(777,34):
+      or       'const _Ty2 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(771,34):
+      or       'const _Ty1 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(761,69):
+      or       'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(755,28):
+      or       '_Ty2 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty2', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(749,28):
+      or       '_Ty1 &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,32):
+          'std::get': invalid template argument for '_Ty1', type expected
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(739,63):
+      or       'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept': could not deduce template argument for 'std::pair<_Ty1,_Ty2> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(209,34):
+      or       'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(206,28):
+      or       '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          '_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(203,33):
+      or       'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'const std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(200,27):
+      or       '_Ty &std::get(std::array<_Ty,_Size> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          '_Ty &std::get(std::array<_Ty,_Size> &) noexcept': could not deduce template argument for 'std::array<_Ty,_Size> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(197,72):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(194,66):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept': could not deduce template argument for 'std::tuple<_Types...> &&' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(191,71):
+      or       'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept': could not deduce template argument for 'const std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+      C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility(188,65):
+      or       'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept'
+          C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(74,28):
+          'tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept': could not deduce template argument for 'std::tuple<_Types...> &' from 'torch::nn::RNNOutput'
+  
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(75,47): error C3536: 'output_step': cannot be used before it is initialized [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\src\model.cpp(76,21): error C3536: 'new_hidden': cannot be used before it is initialized [C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\translate.vcxproj]
+  Generating Code...

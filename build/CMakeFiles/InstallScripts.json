@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

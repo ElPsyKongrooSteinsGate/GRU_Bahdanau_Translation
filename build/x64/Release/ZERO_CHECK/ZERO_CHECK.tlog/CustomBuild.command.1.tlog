@@ -1,0 +1,10 @@
+^C:\USERS\ACER\DOWNLOADS\LIBTORCH\GRU_BAHDANAU_TRANSLATION\BUILD\CMAKEFILES\FDCE296D56BC984D0FBF9A1965EB8D54\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation -BC:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Acer/Downloads/libtorch/GRU_Bahdanau_Translation/build/GRU_Bahdanau_Translation.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

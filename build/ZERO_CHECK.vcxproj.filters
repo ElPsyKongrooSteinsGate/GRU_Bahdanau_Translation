@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Acer\Downloads\libtorch\GRU_Bahdanau_Translation\build\CMakeFiles\fdce296d56bc984d0fbf9a1965eb8d54\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A6BE1B6D-AE32-348F-88A0-295648DEAFDE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
